@@ -1,0 +1,72 @@
+CRITICAL - 2024-11-20 15:37:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/show.php"
+[Method: GET, Route: usuarios/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/show.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/show', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(33): view('usuario/show', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->show('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-20 15:37:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/show.php"
+[Method: GET, Route: usuarios/2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/show.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/show', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(33): view('usuario/show', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->show('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-20 15:38:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/show.php"
+[Method: GET, Route: usuarios/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/show.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/show', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(33): view('usuario/show', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->show('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-20 15:39:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/show.php"
+[Method: GET, Route: usuarios/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/show.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/show', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(33): view('usuario/show', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->show('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-20 15:40:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/show.php"
+[Method: GET, Route: usuarios/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/show.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/show', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(33): view('usuario/show', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->show('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-20 15:40:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/show.php"
+[Method: GET, Route: usuarios/2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/show.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/show', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(33): view('usuario/show', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->show('2')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

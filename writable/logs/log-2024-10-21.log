@@ -1,0 +1,456 @@
+CRITICAL - 2024-10-21 15:08:12 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:16:00 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:16:44 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:16:46 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:18:18 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:18:19 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:18:19 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:22:06 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:22:07 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:22:08 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:23:29 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:23:30 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:27:31 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:28:11 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:28:12 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:28:32 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:28:51 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:28:53 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:28:55 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:29:16 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:29:16 --> ErrorException: Undefined variable $usuario
+[Method: GET, Route: usuarios/1/edit]
+in APPPATH\Views\Usuarios\edit.php on line 6.
+ 1 APPPATH\Views\Usuarios\edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\fotobook\\app\\Views\\Usuarios\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuarios/edit', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(62): view('usuarios/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:34:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "http://localhost/fotobook/public/index.php/usuarios/edit.php"
+[Method: GET, Route: usuarios/1/edit]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('http://localhost/fotobook/public/index.php/usuarios/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('http://localhost/fotobook/public/index.php/usuarios/edit', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(62): view('http://localhost/fotobook/public/index.php/usuarios/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:34:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "http://localhost/fotobook/public/index.php/usuarios/edit.php"
+[Method: GET, Route: usuarios/1/edit]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('http://localhost/fotobook/public/index.php/usuarios/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('http://localhost/fotobook/public/index.php/usuarios/edit', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(62): view('http://localhost/fotobook/public/index.php/usuarios/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:34:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "http://localhost/fotobook/public/index.php/usuarios/edit.php"
+[Method: GET, Route: usuarios/1/edit]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('http://localhost/fotobook/public/index.php/usuarios/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('http://localhost/fotobook/public/index.php/usuarios/edit', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(62): view('http://localhost/fotobook/public/index.php/usuarios/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:34:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "http://localhost/fotobook/public/index.php/usuarios/create.php"
+[Method: GET, Route: usuarios/create]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('http://localhost/fotobook/public/index.php/usuarios/create.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('http://localhost/fotobook/public/index.php/usuarios/create', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(37): view('http://localhost/fotobook/public/index.php/usuarios/create')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:34:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "http://localhost/fotobook/public/index.php/usuarios/create.php"
+[Method: GET, Route: usuarios/create]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('http://localhost/fotobook/public/index.php/usuarios/create.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('http://localhost/fotobook/public/index.php/usuarios/create', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(37): view('http://localhost/fotobook/public/index.php/usuarios/create')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:36:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "http://localhost/fotobook/public/index.php/usuarios/create.php"
+[Method: GET, Route: usuarios/create]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('http://localhost/fotobook/public/index.php/usuarios/create.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('http://localhost/fotobook/public/index.php/usuarios/create', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(37): view('http://localhost/fotobook/public/index.php/usuarios/create')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:37:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "http://localhost/fotobook/public/index.php/usuarios/edit.php"
+[Method: GET, Route: usuarios/1/edit]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('http://localhost/fotobook/public/index.php/usuarios/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('http://localhost/fotobook/public/index.php/usuarios/edit', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(62): view('http://localhost/fotobook/public/index.php/usuarios/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:37:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "http://localhost/fotobook/public/index.php/usuarios/edit.php"
+[Method: GET, Route: usuarios/1/edit]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('http://localhost/fotobook/public/index.php/usuarios/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('http://localhost/fotobook/public/index.php/usuarios/edit', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(62): view('http://localhost/fotobook/public/index.php/usuarios/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-21 15:38:21 --> mysqli_sql_exception: Duplicate entry 'sdfs@sg' for key 'usuarios_244240.correo' in C:\laragon\www\fotobook\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\fotobook\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\laragon\www\fotobook\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\laragon\www\fotobook\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\laragon\www\fotobook\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\laragon\www\fotobook\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\fotobook\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\fotobook\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\laragon\www\fotobook\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\laragon\www\fotobook\app\Controllers\UsuarioController.php(49): CodeIgniter\BaseModel->save(Array)
+#9 C:\laragon\www\fotobook\system\CodeIgniter.php(933): App\Controllers\UsuarioController->store()
+#10 C:\laragon\www\fotobook\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+#11 C:\laragon\www\fotobook\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\fotobook\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\fotobook\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\laragon\www\fotobook\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-10-21 15:38:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'sdfs@sg' for key 'usuarios_244240.correo'
+[Method: POST, Route: usuarios/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `usuarios_244240` (`nombre`, `telefono`, `correo`, `password`, `created_at`, `updated_at`) VALUES (:nombre:, :telefono:, :correo:, :password:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\UsuarioController.php(49): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:38:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'sdfs@sg' for key 'usuarios_244240.correo'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `usuarios_244240` (`nombre`, `telefono`, `correo`, `password`, `created_at`, `updated_at`) VALUES (\'saf\', \'124142\', \'sdfs@sg\', \'3s\', \'2024-10-21 15:38:20\', \'2024-10-21 15:38:20\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `usuarios_244240` (`nombre`, `telefono`, `correo`, `password`, `created_at`, `updated_at`) VALUES (\'saf\', \'124142\', \'sdfs@sg\', \'3s\', \'2024-10-21 15:38:20\', \'2024-10-21 15:38:20\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `usuarios_244240` (`nombre`, `telefono`, `correo`, `password`, `created_at`, `updated_at`) VALUES (:nombre:, :telefono:, :correo:, :password:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\UsuarioController.php(49): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-21 15:38:21 --> [Caused by] mysqli_sql_exception: Duplicate entry 'sdfs@sg' for key 'usuarios_244240.correo'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `usuarios_244240` (`nombre`, `telefono`, `correo`, `password`, `created_at`, `updated_at`) VALUES (\'saf\', \'124142\', \'sdfs@sg\', \'3s\', \'2024-10-21 15:38:20\', \'2024-10-21 15:38:20\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `usuarios_244240` (`nombre`, `telefono`, `correo`, `password`, `created_at`, `updated_at`) VALUES (\'saf\', \'124142\', \'sdfs@sg\', \'3s\', \'2024-10-21 15:38:20\', \'2024-10-21 15:38:20\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `usuarios_244240` (`nombre`, `telefono`, `correo`, `password`, `created_at`, `updated_at`) VALUES (\'saf\', \'124142\', \'sdfs@sg\', \'3s\', \'2024-10-21 15:38:20\', \'2024-10-21 15:38:20\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `usuarios_244240` (`nombre`, `telefono`, `correo`, `password`, `created_at`, `updated_at`) VALUES (:nombre:, :telefono:, :correo:, :password:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\UsuarioController.php(49): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UsuarioController->store()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
