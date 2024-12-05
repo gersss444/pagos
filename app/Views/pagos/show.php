@@ -36,5 +36,5 @@ Detalles del Pago
         <td><?= $pago['updated_at'] ?></td>
     </tr>
 </table>
-<a href="<?= base_url('index.php/pagos') ?>" class="btn btn-primary">Volver a la lista</a>
+<a href="<?= base_url('pagos') ?>" class="btn btn-primary">Volver a la lista</a>
 <?php $this->endSection(); ?>

@@ -1,4 +1,3 @@
-<!-- Views/usuario/create  http://localhost/fotobook/public/index.php/usuarios/create -->
 
 <?php $this->extend("plantilla"); ?>
 
@@ -6,13 +5,13 @@
 Gestión de Pagos
 <?php $this->endSection(); ?>
 
-<?php $this->section("content"); // Aquí el contenido ?>
+<?php $this->section("content");  ?>
 
 <section class="row">
     <div class="col-12 card">
 
         <div class="card-header">
-            <a href="<?= base_url(); ?>index.php/pagos/create" class="btn btn-success"><i class="bi bi-bookmark-plus"></i> Nuevo Pago</a>
+            <a href="<?= base_url(); ?>pagos/create" class="btn btn-success"><i class="bi bi-bookmark-plus"></i> Nuevo Pago</a>
         </div>
 
         <div class="card-body">
@@ -38,10 +37,10 @@ Gestión de Pagos
                         <td><?= $pago["metodo"] ?></td>
                         <td><?= $pago["created_at"] ?></td>
                         <td>
-                            <a href="<?= base_url("index.php/pagos/$pago[id]"); ?>" 
+                            <a href="<?= base_url("pagos/$pago[id]"); ?>" 
                             class="btn btn-warning btn-sm">
                             <i class="bi bi-eye-fill"></i></a>
-                            <a href="<?= base_url("index.php/pagos/$pago[id]/edit"); ?>" class="btn btn-primary btn-sm">
+                            <a href="<?= base_url("pagos/$pago[id]/edit"); ?>" class="btn btn-primary btn-sm">
                                 <i class="bi bi-pencil-square"></i>
                             </a>
                             <button onClick="eliminar(<?= $pago['id']; ?>)" class="btn btn-danger btn-sm">
@@ -70,10 +69,10 @@ Gestión de Pagos
             confirmButtonText: "Sí, eliminar"
         }).then((result) => {
             if (result.isConfirmed) {
-                location.href = "<?= base_url(); ?>index.php/pagos/" + id + "/delete";
+                location.href = "<?= base_url(); ?>pagos/" + id + "/delete";
             }
         });
     }
 </script>
 
-<?php $this->endSection(); // Aquí termina el contenido ?>
+<?php $this->endSection();  ?>

@@ -6,21 +6,8 @@ use CodeIgniter\Config\BaseConfig;
 
 class App extends BaseConfig
 {
-    /**
-     * --------------------------------------------------------------------------
-     * Base Site URL
-     * --------------------------------------------------------------------------
-     *
-     * URL to your CodeIgniter root. Typically, this will be your base URL,
-     * WITH a trailing slash:
-     *
-     * E.g., http://example.com/
-      'http://localhost:8080/'
-     */
-    public string $baseURL = (ENVIRONMENT === 'production') 
-    ? 'http://ec2-3-142-187-245.us-east-2.compute.amazonaws.com/pagos/' 
-    : 'http://localhost/pagos/';
 
+    public $baseURL = 'http://mc.fotobuks.com';
 
 
 
@@ -46,7 +33,7 @@ class App extends BaseConfig
      * something else. If you have configured your web server to remove this file
      * from your site URIs, set this variable to an empty string.
      */
-    public string $indexPage = 'index.php';
+    public string $indexPage = '';
 
     /**
      * --------------------------------------------------------------------------

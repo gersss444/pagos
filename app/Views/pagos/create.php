@@ -20,7 +20,7 @@ Crear Pago
     </div>
 <?php endif; ?>
 
-<form action="<?= base_url('index.php/pagos/store') ?>" method="post">
+<form action="<?= base_url('pagos/store') ?>" method="post">
     <div class="mb-3">
         <label for="cantidad_pagada" class="form-label">Cantidad Pagada</label>
         <input type="number" step="0.01" class="form-control" id="cantidad_pagada" name="cantidad_pagada" required>
@@ -42,7 +42,7 @@ Crear Pago
         </select>
     </div>
     <button type="submit" class="btn btn-success">Guardar</button>
-    <a href="<?= base_url("index.php/pagos") ?>" class="btn btn-secondary">Cancelar</a>
+    <a href="<?= base_url("pagos") ?>" class="btn btn-secondary">Cancelar</a>
 </form>
 
 <?php $this->endSection(); ?>
